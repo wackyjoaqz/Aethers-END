@@ -1,0 +1,13 @@
+name = "Cobblemon Unchained"
+filename = "unchained-neoforge-1.7.1-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4f5a8bccc6c18b8d09413338060bd14f941502c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7280601
+project-id = 901476

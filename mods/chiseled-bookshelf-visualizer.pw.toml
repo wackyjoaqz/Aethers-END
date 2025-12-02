@@ -1,0 +1,13 @@
+name = "Chiseled Bookshelf Visualizer"
+filename = "ChiseledBookshelfVisualizer-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43bc78d5c4db164a2948a6f9a885c1ec564a44cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5891482
+project-id = 913857

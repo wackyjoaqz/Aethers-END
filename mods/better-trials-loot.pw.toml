@@ -1,0 +1,13 @@
+name = "Better Trials Loot"
+filename = "Better Trials Loot.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vcp31qWg/versions/HheBbBvi/Better%20Trials%20Loot.jar"
+hash-format = "sha512"
+hash = "83d62f88c4b00296c629603c679d02b7c658c1a2eb98d065fd3b671533c1c47d0dceba92a9a8396cfe5768c59547cf4ed0c882d02c095b6da4fa9718c5b7ad3f"
+
+[update]
+[update.modrinth]
+mod-id = "Vcp31qWg"
+version = "HheBbBvi"

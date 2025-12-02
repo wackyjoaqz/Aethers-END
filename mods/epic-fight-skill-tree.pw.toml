@@ -1,0 +1,13 @@
+name = "Epic Fight: Skill Tree"
+filename = "epicfight-skilltree-neoforge-21.2.4-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b23eb9163a2d43243857931469f321b4e09e2fd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7213656
+project-id = 1295882

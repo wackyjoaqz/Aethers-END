@@ -1,0 +1,13 @@
+[Spawning]
+	#You can boost the frequency of the obsessed stalking its targets by increasing this number, or decrease it by lowering it (minimum=0, maximum effect=6000)
+	"Stalk Frequency" = 1500.0
+	#Controls the spawnrate of the naturally spawning version that locks target player targets. Default rate is 5, and the chance corresponds to the number. 1 is 10% per attempt, 10 is 100% chance per attempt (maximum spawns). Or set to 0 to disable natural spawns entirely.
+	"Natural Targeter Spawnrate" = 5.0
+
+[Difficulty]
+	#Minimum 1.0, default 5.0. Controls how many obsessed spawns occur before each time its mood decreases automatically. E.g. with default value of 5.0, every five times it spawns, it will decrease its mood by 1 point (mood range is -5 to 5).
+	"Obsessed Patience" = 5.0
+
+[Other]
+	#Set to false to disable the initial welcome text shown to players on first world load
+	"Splash Text" = true

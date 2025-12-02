@@ -1,0 +1,29 @@
+[
+  {
+    "unit": "MINUTES",
+    "interval": 1,
+    "runInstantly": false,
+    "ID": "ExampleIntervalCommand",
+    "active": false,
+    "command": "say This command runs every minute! Via the CommandScheduler mod. If you are a server moderator, you should probably update this. Run /commandscheduler",
+    "description": "This is the description for the 'interval' scheduler example. This runs every minute."
+  },
+  {
+    "unit": "TICKS",
+    "interval": 7,
+    "runInstantly": false,
+    "ID": "ExampleIntervalCommand2",
+    "active": false,
+    "command": "say This runs every 7 game ticks. To deactivate, run /commandscheduler deactivate ExampleIntervalCommand2",
+    "description": "This is the description for the second 'interval' scheduler example. This runs every 7 game ticks, however is deactivated by default."
+  },
+  {
+    "unit": "MINUTES",
+    "interval": 1,
+    "runInstantly": false,
+    "ID": "AutoSave",
+    "active": true,
+    "command": "save-all",
+    "description": ""
+  }
+]

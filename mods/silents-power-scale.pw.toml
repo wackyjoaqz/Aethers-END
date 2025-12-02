@@ -1,0 +1,13 @@
+name = "Silent's Power Scale"
+filename = "power-scale-1.21.1-neoforge-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b80796aa0466d1cf5dc70544ee08923f8e1d1997"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6973547
+project-id = 1155398

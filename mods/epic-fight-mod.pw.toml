@@ -1,0 +1,13 @@
+name = "Epic Fight"
+filename = "epicfight-neoforge-21.13.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cd269fc69818bbff60d566e7ebc77dedaed631a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132918
+project-id = 405076

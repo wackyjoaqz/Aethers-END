@@ -1,0 +1,10 @@
+[
+  {
+    "ID": "ExampleClockBasedCommand",
+    "description": "This is the description for the 'clock-based' scheduler example. This runs at 01.00 and at 13.00.",
+    "active": false,
+    "command": "say The time is either 01.00 or 13.00! (commandscheduler mod)",
+    // Use 24h format: HH.mm
+    "times": [[1, 0], [13, 0]]
+  }
+]

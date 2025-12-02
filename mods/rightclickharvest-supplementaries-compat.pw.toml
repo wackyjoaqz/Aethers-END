@@ -1,0 +1,13 @@
+name = "RightClickHarvest Supplementaries Compat"
+filename = "rch-supplementaries-compat-neoforge-2.0.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54c9089b67c3bf50e5cf8e5fe435d16c577eeb78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6137052
+project-id = 1038427

@@ -1,0 +1,13 @@
+name = "CameraOverhaul"
+filename = "CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae47f61145977d6d753164e454b4cbcd8b104552"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510155
+project-id = 423602

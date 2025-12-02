@@ -1,0 +1,23 @@
+{
+  "abilityPatchGen9": true,
+  "lootPoolOverrides": [
+    {
+      "namespace": "minecraft",
+      "path": "gameplay/fishing/treasure"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "blocks/tall_grass"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "blocks/short_grass"
+    },
+    {
+      "namespace": "minecraft",
+      "path": "blocks/fern"
+    }
+  ],
+  "shinyCharmBonusRolls": 2,
+  "bottleCapBlacklist": []
+}

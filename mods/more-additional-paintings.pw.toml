@@ -1,0 +1,13 @@
+name = "More Additional Paintings"
+filename = "vanilla__pixel_paintings-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70707ccf7f1b0d64c90eb07f534f80430789e97d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5858740
+project-id = 1131013

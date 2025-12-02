@@ -1,0 +1,28 @@
+#Offsets the camera forward while in first person. Does not work with swimming, gliding, riptide, or crawling. May be buggy at higher values. WARNING: Using offsets may be considered cheating on some servers! Please set all offsets to default values unless your server says it's okay.
+# Default: 0.45
+# Range: -128.0 ~ 128.0
+cameraForwardOffset = 0.45
+#Offsets the camera sideways while in first person. Does not work with swimming, gliding, riptide, or crawling. May be buggy at higher values. WARNING: Using offsets may be considered cheating on some servers! Please set all offsets to default values unless your server says it's okay.
+# Default: 0.0
+# Range: -128.0 ~ 128.0
+cameraSidewaysOffset = 0.0
+#Offsets the camera upward while in first person. Does not work with swimming, gliding, riptide, or crawling. May be buggy at higher values. WARNING: Using offsets may be considered cheating on some servers! Please set all offsets to default values unless your server says it's okay.
+# Default: 0.0
+# Range: -128.0 ~ 128.0
+cameraUpwardOffset = 0.0
+#Rotates the camera's pitch when sleeping in a bed. 90 is straight up, and 0 is the same as vanilla.
+# Default: 90.0
+# Range: -90.0 ~ 90.0
+sleepPitchRotation = 90.0
+#Renders the model in cinematic (F1 key) mode.
+renderBodyInF1 = true
+#Renders the elytra while gliding.
+renderElytraWhenGlide = false
+#Disables rendering body while transitioning between swimming/crawling/gliding and standing.
+fixPoseTransitions = true
+#Renders the head, excluding hat layer/helmet.
+renderHead = false
+#Renders the hat layer, which is the outer layer of the head part of the skin.
+renderHat = false
+#DOES NOT WORK PROPERLY. STILL A WORK IN PROGRESS.
+renderHelmet = false

@@ -1,0 +1,13 @@
+name = "Take's Armory"
+filename = "takesarmory-1.6.4-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dbb99c6699eb7792acd4ddf62e1f6c9ca9f529a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6351798
+project-id = 1100279

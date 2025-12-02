@@ -1,0 +1,92 @@
+name: "Bruhbun RPG Soundpack"
+version: "1.0"
+author: "wacki"
+description: "A collection of music to create a a true fantasy RPG experience."
+credits: "HoYoMix \n
+          Various Others"
+
+musicSwitchSpeed: SHORT
+musicDelayLength: NONE
+
+entries:
+
+  # Outside game state/special songs. Put these at the top to make sure they get prioritized the highest
+  - events: [ "MAIN_MENU" ]
+    forceStartMusicOnValid: true
+    forceStopMusicOnInvalid: true
+    songs:
+      - "Mountain Walk"
+      - "Journey of a Lifetime"
+      - "NieR OST 1"
+      - "Tabibito no Uta Kikyou"
+      - "Tabibito no Uta"
+      - "2 Months"
+
+
+  # This is also near the top so that it doesn't get overriden by stuff like DAY/NIGHT etc
+  - events: [ "UNDERWATER", "DAY" ]
+    songs:
+      - "Passage of an Era"
+
+
+  - events: [ "SUNRISE", "BOAT" ]
+    songs:
+      - "Miyo's Dreams"
+
+
+  - events: [ "NIGHT", "BOAT" ]
+    songs:
+      - "Die Mittsommernacht-Fantasie"
+
+# DIMENSIONS
+
+  - events: [ "DIM=NETHER" ]
+    songs:
+      - "Evolution of Magic"
+
+
+# BIOME SPECIFIC AND TIME GENERIC
+
+
+# As we go down the list, we make the events more and more generic. This allows the conditions above to play instead of getting overridden by the very common "DAY" condition
+
+  # Day songs
+  - events: [ "SUNRISE" ]
+    forceStartMusicOnValid: true
+    songs:
+      - "Dawn Winery Theme"
+      - "Tsuki's Odyssey Forest"
+      - "Once-Colored Memories"
+      - "Springvale Theme"
+      - "Time Flows Ever Onward"
+      - "Hence, Begins the Journey"
+
+  - events: [ "SUNSET" ]
+    forceStartMusicOnValid: true
+    songs:
+      - "Serene and Sweet Adieu"
+      - "Lone Sojourner"
+      - "Springvale Theme II"
+      - "Tender Strength"
+      - "One Last Adventure"
+
+  # Night songs
+  - events: [ "NIGHT" ]
+    songs:
+      - "Horror Ambiance"
+      - "Prison Walls"
+      - "The Long Night"
+      - "On That Fateful Night"
+      - "Never Coming Back"
+      - "Before Dawn, at the Winery"
+
+  - events: [ "DAY" ]
+    songs:
+      - "Adventure"
+      - "Mondstadt Starlit"
+      - "A Well-Earned Celebration"
+      - "The Magic Within"
+      - "Dragon Smasher"
+      - "Deep in the Dungeon"
+      - "Zoltraak"
+

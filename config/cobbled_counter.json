@@ -1,0 +1,11 @@
+{
+  "ignoreFormFor": [],
+  "broadcast": [
+    "capture",
+    "ko",
+    "resurrection",
+    "fish",
+    "hatch"
+  ],
+  "debug": false
+}

@@ -1,0 +1,13 @@
+name = "Dusty Decorations"
+filename = "DustyDecorations_1.21.1Neoforge_V1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "801003be621ab01c4b1d53e7572a2c69ce90acf2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6620155
+project-id = 843344

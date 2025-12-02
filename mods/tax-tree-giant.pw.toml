@@ -1,0 +1,13 @@
+name = "Tax' Tree Giant"
+filename = "taxtg-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb2a4588e72ff70358dc68950df219fabafcd453"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6226763
+project-id = 1038018

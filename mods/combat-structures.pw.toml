@@ -1,0 +1,13 @@
+name = "Combat Structures"
+filename = "combat_structures_update-2.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bafdd2c9ebd90e8bcb49915424d457905393d57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6608427
+project-id = 1128844

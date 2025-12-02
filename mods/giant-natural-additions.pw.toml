@@ -1,0 +1,13 @@
+name = "Giant Natural Additions"
+filename = "giant_natural_additions-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d041feb53b17dda3a476e296e06917e87a9ed349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6787532
+project-id = 1309988

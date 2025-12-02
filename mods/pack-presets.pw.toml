@@ -1,0 +1,13 @@
+name = "Pack Presets"
+filename = "PackPresets-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d85f81eda5b07217a5e667dd9699e5f17098445"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741893
+project-id = 1082559

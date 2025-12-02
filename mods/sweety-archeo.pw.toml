@@ -1,0 +1,13 @@
+name = "Sweety's Archaeology"
+filename = "sweety_archaeology-1.0.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa733a4319f4ae9c30b1ad05fc0c11596d5d4ebb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6407638
+project-id = 1138355

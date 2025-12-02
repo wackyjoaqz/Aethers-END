@@ -1,0 +1,13 @@
+name = "Reactive Music"
+filename = "reactivemusic-1.0.3+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67068a81c5d06b7e3a662e1911fed16f9e5adf5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6132849
+project-id = 960382

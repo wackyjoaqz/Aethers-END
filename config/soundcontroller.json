@@ -1,0 +1,630 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "chimes:block.iron.chime",
+      "volume": 0.52
+    },
+    {
+      "soundId": "chimes:block.iron.chiming",
+      "volume": 0.54
+    },
+    {
+      "soundId": "chimes:block.iron.tie",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_jewelry:action.create_items.emeralds",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_jewelry:action.generic.trigger",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_jewelry:block.jewelcrafting_station.jewelcraft",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:abyssal_teleport",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:arial_summoning_5_custom_1",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:bow_shoot",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.abyssal_shroud",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.blood_step",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.fireball",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.blood",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.ender",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.evocation",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.fire",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.holy",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.ice",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.lightning",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.nature",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.generic.poison",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.ice_block",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.raise_dead.finish",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.raise_dead.start",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.void_tentacles.finish",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:cast.void_tentacles.start",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:dark_magic_buff_03_custom_1",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:dark_spell_02",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:entity.acid_orb.impact",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:entity.black_hole.loop",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:entity.blood_needle.impact",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:entity.chain_lightning.lightning_chain",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.death",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.hurt",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.idle",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.step",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.swing",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.citadel_keeper.sword_impact",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.ambience",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.attack_hit",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.attack_slam",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.attack_swing",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.death",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.explode",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.fake_death",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.hurt",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.drum_loop",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.first_phase_accent_01",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.first_phase_melody",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.intro",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.second_phase_melody_alt",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.music.suspense",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.resurrect",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.dead_king.spawn",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.devour_jaw.bite",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.earthquake_aoe.impact",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.earthquake_aoe.loop",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.echoing_strike.echoing_strike",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fiery_dagger.parry",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fiery_dagger.throw",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.death",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.death_final",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.enter_soul",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.fireball",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.hurt",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.stance_break",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_boss.summon_scythe",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.fire_eruption.slam",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.firefly_swarm.attack",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.firefly_swarm.idle",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.generic.fiery_explosion",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.generic.fire_impact",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.generic.swing_blade",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.generic.trader.no",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.generic.trader.yes",
+      "volume": 0.56
+    },
+    {
+      "soundId": "irons_spellbooks:entity.guiding_bolt.impact",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:entity.ice_block.impact",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.ice_spike.emerge",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.lightning_strike.strike",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.root.emerge",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:entity.sunbeam.impact",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:entity.sunbeam.windup",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:entity.void_tentacles.ambient",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:entity.void_tentacles.retreat",
+      "volume": 0.48
+    },
+    {
+      "soundId": "irons_spellbooks:force_impact",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:frost_step",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:heartstop_cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:ice_impact",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:item.cinderous_soulcaller.toll.failure",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:item.cinderous_soulcaller.toll.success",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:item.hellrazor.swing",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:item.spell_book.equip",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:lightning_lance_cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:lightning_woosh_01",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:loop.cloud_of_regen",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:loop.cone_of_cold",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:loop.electrocute",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:loop.fire_breath",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:loop.ray_of_siphoning",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:magic_arrow_charge",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:magic_arrow_release",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:magic_spell_reverse_3",
+      "volume": 0.48
+    },
+    {
+      "soundId": "irons_spellbooks:music.dead_king_lullaby",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.backtrack",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.bells_a",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.bells_b",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.drums",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.melody_a",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:music.fire_boss.melody_b",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:music.flame_still_burns",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.acid_orb.cast",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.acid_orb.charge",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.arrow_volley.prepare",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:spell.black_hole.cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:spell.black_hole.charge",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:spell.blight.begin",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:spell.cleanse.cast",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.divine_smite.cast",
+      "volume": 0.57
+    },
+    {
+      "soundId": "irons_spellbooks:spell.divine_smite.windup",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.earthquake.cast",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:spell.eldritch_blast.cast",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.fire_arrow.cast",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:spell.fire_arrow.charge",
+      "volume": 0.56
+    },
+    {
+      "soundId": "irons_spellbooks:spell.fire_bomb.cast",
+      "volume": 0.56
+    },
+    {
+      "soundId": "irons_spellbooks:spell.fire_bomb.charge",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.firefly_swarm.prepare",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.flaming_strike.begin",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.flaming_strike.cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.frostwave.prepare",
+      "volume": 0.48
+    },
+    {
+      "soundId": "irons_spellbooks:spell.guiding_bolt.cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.gust.cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.gust.charge",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.heat_surge.prepare",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.oakskin.cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:spell.planar_sight.cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.poison_arrow.cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:spell.poison_arrow.charge",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.poison_breath.loop",
+      "volume": 0.53
+    },
+    {
+      "soundId": "irons_spellbooks:spell.poison_splash.begin",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.raise_hell.prepare",
+      "volume": 0.55
+    },
+    {
+      "soundId": "irons_spellbooks:spell.ray_of_frost.cast",
+      "volume": 0.57
+    },
+    {
+      "soundId": "irons_spellbooks:spell.recall.prepare",
+      "volume": 0.58
+    },
+    {
+      "soundId": "irons_spellbooks:spell.sacrifice.blood_explosion",
+      "volume": 0.58
+    },
+    {
+      "soundId": "irons_spellbooks:spell.scorch.prepare",
+      "volume": 0.54
+    },
+    {
+      "soundId": "irons_spellbooks:spell.shockwave.cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:spell.shockwave.prepare",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:spell.sonic_boom.cast",
+      "volume": 0.48
+    },
+    {
+      "soundId": "irons_spellbooks:spell.spider_aspect.cast",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:spell.summon_swords.cast",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.summon_swords.charge",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.telekinesis.cast",
+      "volume": 0.52
+    },
+    {
+      "soundId": "irons_spellbooks:spell.telekinesis.loop",
+      "volume": 0.51
+    },
+    {
+      "soundId": "irons_spellbooks:spell.thunderstorm.prepare",
+      "volume": 0.5
+    },
+    {
+      "soundId": "irons_spellbooks:spell.touch_dig.cast",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:ui.learn_eldritch_spell",
+      "volume": 0.49
+    },
+    {
+      "soundId": "irons_spellbooks:ui.tick",
+      "volume": 0.47
+    }
+  ]
+}

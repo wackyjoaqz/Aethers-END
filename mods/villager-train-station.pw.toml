@@ -1,0 +1,13 @@
+name = "Villager Train Station"
+filename = "villager_train_station-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7cb45579c4aab4cb9122090a7ab624a563089cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6943355
+project-id = 1337584

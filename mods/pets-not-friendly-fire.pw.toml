@@ -1,0 +1,13 @@
+name = "Pets Not Friendly Fire"
+filename = "pets-not-friendly-fire-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd3dd109c6df3e17f98ca6106827724db90acb90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5723886
+project-id = 1099352

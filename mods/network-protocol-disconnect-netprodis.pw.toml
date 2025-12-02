@@ -1,0 +1,13 @@
+name = "Network Protocol Disconnect (netprodis)"
+filename = "netprodis-1.1.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d40fb0b1371bd12c077bbb6b221fd6a5e79597ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6218810
+project-id = 1103774

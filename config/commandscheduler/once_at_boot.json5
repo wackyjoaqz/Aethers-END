@@ -1,0 +1,8 @@
+[
+  {
+    "ID": "ExampleAtBootCommand",
+    "description": "This is the description for the 'at boot' scheduler example. This runs every time the server boots",
+    "active": false,
+    "command": "say The server has booted! (commandscheduler mod)"
+  }
+]

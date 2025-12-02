@@ -1,0 +1,15 @@
+{
+	musicDelayLength2: "SONGPACK_DEFAULT",
+	musicSwitchSpeed2: "SONGPACK_DEFAULT",
+	debugModeEnabled: false,
+	loadedUserSongpack: "Bruhbun RPG Soundpack",
+	blacklistedDimensions: [],
+	savedHomePositions: {
+		saved: {
+			x: 1897.5,
+			y: 527.5845040649393,
+			z: 4363.5
+		}
+	},
+	hasForcedInitialVolume: true
+}

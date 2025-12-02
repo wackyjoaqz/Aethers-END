@@ -1,0 +1,13 @@
+name = "Night Lights | Modern Lights |Medieval Light"
+filename = "Night Lights NeoForge v1.0.0 [1.21.1].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d094d81c25567c8414adc78e369854f7a9f75ea4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6393935
+project-id = 1199355

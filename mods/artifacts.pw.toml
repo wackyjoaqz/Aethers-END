@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-neoforge-12.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0880cf5fe8eb26eed7bdbfc8ab69d170d80719c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6372851
+project-id = 312353

@@ -1,0 +1,13 @@
+name = "Shroom Dealers!"
+filename = "shroomDealers-2.0.2-1.21.1_[neoforge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "923b68d991c7f645b48acb2964f11accb25aaec4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5989252
+project-id = 631695

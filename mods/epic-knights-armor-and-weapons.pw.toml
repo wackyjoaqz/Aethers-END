@@ -1,0 +1,13 @@
+name = "Epic Knights: Shields, Armor and Weapons [Fabric/Forge/NeoForge]"
+filename = "epic-knights-1.21.1-neoforge-9.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12d530d5956d1da98fa6cadda9763ab3f5ad45d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7089984
+project-id = 509041

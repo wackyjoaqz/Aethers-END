@@ -1,0 +1,13 @@
+name = "Conquest_"
+filename = "Conquest_1.21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3dda4b36daf174824c152454610ef6df83d7d29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741192
+project-id = 538712

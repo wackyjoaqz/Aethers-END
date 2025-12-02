@@ -1,0 +1,13 @@
+name = "IllagerBlabber"
+filename = "illagerblabber-1.21.x-NeoForge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d86f44ead17369816f2279d8c48c9b41732924d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6525420
+project-id = 1262825

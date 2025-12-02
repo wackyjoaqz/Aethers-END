@@ -1,0 +1,13 @@
+name = "Winter Overhaul"
+filename = "WinterOverhaul-NeoForge-4.0.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "984ca1e7c333979382f3d49f98ba096d44125363"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7074233
+project-id = 564989
