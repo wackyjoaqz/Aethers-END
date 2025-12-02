@@ -1607,7 +1607,7 @@ hash = "4af6e7d6d9016bde47911cac8b9407b1d1e0cb00688efbb2e81be88898cef34e"
 
 [[files]]
 file = "config/epicfight-client.toml"
-hash = "6b6279cd87c38c8131ae89303a58179deb69c12540e24d41b78f267cc190c200"
+hash = "6ff804c6ad6cc06c13df1b35801809a5659c97ed2f8f956536accfc43c5428ae"
 
 [[files]]
 file = "config/epicfight-common-1.toml.bak"
