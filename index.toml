@@ -2279,7 +2279,11 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "7778f1ecdf432449f5d69a36c2c617b3a8a8e8fa2851eb9eb3b6590bd9015ce8"
+hash = "03f5f062fc6151162310ec15f5d7ce943e88e16452d46cf9e9145239a163dc0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/ATM x MSD [3.0.1LM].zip"
+hash = "6847ca0c40cd94ad595e9f24b4ad8331b31d20ab88877ec9a0ab798abc517449"
 
 [[files]]
 file = "config/paxi/resourcepacks/Clarent_12110_1202+_v1.zip"
