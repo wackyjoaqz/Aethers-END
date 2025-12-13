@@ -8762,10 +8762,6 @@ hash = "a15f3ab51e3a138c7ea0ff93513b09d5cda22418ca83a14eb09ab38ca0945c3d"
 metafile = true
 
 [[files]]
-file = "mods/acedium-0.3.0.jar"
-hash = "c39017c97a23abc172f6a04b279092ba9cc27cbf42e7f421101c5fb5765a475d"
-
-[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "00a6448a0b5ba9f1f01a5ab4188d373d7f58a7906970fa673835116587f08482"
 metafile = true
@@ -9170,6 +9166,11 @@ hash = "90bf9f547b4c3c76873d51f13c355f769e5043691f56d3a8744bad10ab0fd70c"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
+metafile = true
+
+[[files]]
 file = "mods/createcrafts-1.0.0-neoforge-1.21.1.jar"
 hash = "78deb842a453f28852d2919ae7d5bed4a8b5e3c971ed84fa7085cd557d868cb0"
 
@@ -9228,11 +9229,6 @@ hash = "a905d039b69045112c92377f8606cc5c54d99d5c93f6e195821d2536a5329ec8"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "c40944d53753ca0c91b7ef0d61be499bec8b3cae917a31f33553d1deb8715593"
-metafile = true
-
-[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "4f82defab6b7fa63627ba0414d52cccc02a2b3c95c1a35caf5b555ce09dbbf8c"
 metafile = true
@@ -9288,11 +9284,6 @@ hash = "54e715c9b4e3612ec53c4987876b2ab1f632a0f093938f0a7fba3228622f989b"
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
 metafile = true
 
 [[files]]
@@ -9443,6 +9434,15 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
+metafile = true
+
+[[files]]
+file = "mods/fixsodiumshaderloader-1.0.0.jar"
+hash = "2991680a97184498a04105d5f31466c8852077c0a063e7efd0c6517cbbcc0ea4"
+
+[[files]]
+file = "mods/flerovium.pw.toml"
+hash = "d9b81ab8f53b87951b83cf02820692cbd6aba055d69c363ef2a5ac763e108a30"
 metafile = true
 
 [[files]]
@@ -9774,11 +9774,6 @@ hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
 
 [[files]]
-file = "mods/neoculus.pw.toml"
-hash = "47bf43b1382c3df649c7c7db0c43ffdf61fb80b642d59e98743db61fab11961d"
-metafile = true
-
-[[files]]
 file = "mods/network-protocol-disconnect-netprodis.pw.toml"
 hash = "30f33d57d6fd73beda24a271c25b7c80002e255adc9039ea324d325d4d594857"
 metafile = true
@@ -9801,6 +9796,10 @@ metafile = true
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.9.3-mc1.21.jar"
 hash = "ba40cc216164a687b1d223a84b0d61a3f67bd6573f1e56b7c8f996e613c0f9b1"
+
+[[files]]
+file = "mods/nvidium-0.3.1.jar"
+hash = "79afd7f529d71ad3cd326d37be929bb40ee9e4ebde1ba8519cd7f460f686a776"
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
@@ -9931,6 +9930,11 @@ file = "mods/realmrpg_skeletons-1.1.0-neoforge-1.21.1.jar"
 hash = "8a688c2dbd03abd51b48fd09e1ec29de3afe54511cef8046a58c3396c6227388"
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "134b3bb10e0d265734eba90eaffce14804077403ca1c1a3ccfc1fc2367b1ba7e"
 metafile = true
@@ -9958,11 +9962,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "b4ea87bc5953a1a0eec5207bb3182285e3301e87afa64fb1c8a4a8e993e915ea"
 metafile = true
 
 [[files]]
@@ -10071,6 +10070,21 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "e5c3fb8f3c9f357b7c2e938a193dc2a200e6d601f3253b577c95ef22c928bc2f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "02b29315d2ec0d055d0ebba1f36879da5bcacc823328a668c7e7340fb2cb03d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -10263,6 +10277,10 @@ metafile = true
 file = "mods/visuality.pw.toml"
 hash = "5d6abaadd99d9e779849c989017e752b93b5ad023d0a51ff84628c4bc22377fb"
 metafile = true
+
+[[files]]
+file = "mods/voxy-0.2.7-alpha-9dbb8174.jar"
+hash = "e5e88b3752f534463b6d4f605d87e1988a6aa2f826fc8202ebf5b5fb2124832f"
 
 [[files]]
 file = "mods/wanderer_ribbit-2.0.0-neoforge-1.21.1.jar"
