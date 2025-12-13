@@ -899,7 +899,7 @@ hash = "5c77c279bb5b3f74ae8ecd8cace949ff87276f1a6753a0c5595721802b209c70"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "36575f1f7715635bcf37e78513a9b45b3e56a5b2bbac5ac4b339f0cef66102f6"
+hash = "3407461b74c951f6f201ca07fa44a45b6c1b1c7a2630d379521865fed2f92e41"
 
 [[files]]
 file = "config/bettercombat/client.json5"
