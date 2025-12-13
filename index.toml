@@ -9575,6 +9575,11 @@ hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/irons-jewelry.pw.toml"
 hash = "0ad35bf833da550d79a67b18510211caaed83a3b992a6c95927a64258fcc6660"
 metafile = true
